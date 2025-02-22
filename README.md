@@ -21,7 +21,7 @@ Follow these steps to set up and run the project:
 
 1. Clone the Repository in your local folder:
 
-2. Open folder in vs code terminal and run: git clone https://github.com/KrishnaPrakash086/Complex_No._Library.git
+2. Open folder in vs code terminal and run: " git clone https://github.com/KrishnaPrakash086/Complex_No._Library.git "
 
 3. Create a Test Program: (e.g., main1.cpp) in the repository directory. This file will demonstrate how to use the library.
 
