@@ -1,6 +1,6 @@
-# Complex - A Customized C++ Complex Number Library
+# Complex Number Library in C++
 
-**Complex** is a small, lightweight, and personalized C++ library that provides basic operations for complex numbers. Designed with simplicity in mind, this library is easy to integrate into your projects.
+**Complex.cpp** is a small, lightweight, and personalized C++ library that provides basic operations for complex numbers. Designed with simplicity in mind, this library is easy to integrate into your projects.
 
 ## Features
 
